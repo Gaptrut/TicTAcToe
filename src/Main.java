@@ -5,5 +5,8 @@ public class Main {
         board.printBoard();
         Game game = new Game();
         game.gameLoop();
+
+        //första test att skriva
     }
+
 }
