@@ -8,7 +8,7 @@ public class Main {
 
         //första test att skriva
 
-        //ny kod1
+        //ny kod1 hejsan
     }
 
 }
