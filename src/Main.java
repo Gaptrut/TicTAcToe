@@ -7,6 +7,8 @@ public class Main {
         game.gameLoop();
 
         //första test att skriva
+
+        //ny kod1 hejsan
     }
 
 }
